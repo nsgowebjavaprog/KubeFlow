@@ -1,5 +1,4 @@
 # KubeFlow
-KubeFlow for the Generative AI , ML , MLOPs and many more. 
 -------------------------------------------------------
 
 # Installation of Kubeflow Pipelines
